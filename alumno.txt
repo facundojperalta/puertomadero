@@ -1,6 +1,6 @@
 Alumno: Facundo Javier Peralta
 
-DNI: 3862750
+DNI: 38622750
 
 Info:
 La web esta hecha para informar eventos, noticias y recoridos del barrio Puerto Madero
